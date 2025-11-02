@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    line-height: 2;
+}
+
+a{
+    color: red;
+}
+
+a:hover{
+    color:blue;
+}
+
+h2{
+    font-size: 30;
+    border-left: 4px solid red;
+    border-bottom: 4px solid red;
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.5;
+    text-indent: 32px;
+}
+
+li{
+    line-height: 1.5;
+}
+
+.thr{
+    text-decoration: line-through;
+}
+
+img{
+    border: 5px solid gray;
+}
+
+img:hover{
+    border: 5px solid pink;
+}
